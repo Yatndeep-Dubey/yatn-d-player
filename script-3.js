@@ -28,31 +28,31 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name: "Bedardi se Pyar ka",
-     path: "media/Bedardi Se Pyaar Ka(PagalWorld.com.se).mp3",
-     img: "media/bedardi.png",
+     path: "Bedardi Se Pyaar Ka(PagalWorld.com.se).mp3",
+     img: "bedardi.png",
    },
    {
      name: "Filhal 2",
-     path: "media/Filhaal 2 Mohabbat(PagalWorld.com.se).mp3",
-     img: "media/filhal2.png",
+     path: "Filhaal 2 Mohabbat(PagalWorld.com.se).mp3",
+     img: "filhal2.png",
      
    },
    {
      name: "Sansein",
-     path: "media/Sanseinn(PagalWorld.com.se).mp3",
-     img: "media/sanswin.png",
+     path: "Sanseinn(PagalWorld.com.se).mp3",
+     img: "sanswin.png",
      
    },
    {
      name: "Barish Ban Jana",
-     path: "media/Stebin Ben - Baarish Ban Jaana(PagalWorld.com.se).mp3",
-     img: "media/barishban.png",
+     path: "Stebin Ben - Baarish Ban Jaana(PagalWorld.com.se).mp3",
+     img: "barishban.png",
      
    },
    {
      name: "Besharam Bewafa",
-     path: "media/128-Besharam Bewaffa - B Praak 128 Kbps.mp3",
-     img: "media/besharam.jpg",
+     path: "128-Besharam Bewaffa - B Praak 128 Kbps.mp3",
+     img: "besharam.jpg",
      
    }
 ];
